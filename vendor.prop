@@ -1,4 +1,5 @@
 # Audio
+persist.vendor.audio.speaker.stereo=false
 persist.vendor.audio_fx.current=waves
 persist.vendor.audio_fx.waves.maxxsense=true
 persist.vendor.audio_fx.waves.proc_twks=true
